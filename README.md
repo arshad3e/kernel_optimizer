@@ -2,7 +2,6 @@ KernelOptimizer 🚀
 
 KernelOptimizer is an open-source tool that automates CUDA kernel optimization for PyTorch workloads using large language models (LLMs). Inspired by Stanford CRFM’s fast kernel research, it leverages natural language reasoning and branching optimization to generate high-performance GPU kernels, achieving up to 1.8x speedups over PyTorch baselines.
 Whether you’re an ML engineer, researcher, or developer, KernelOptimizer simplifies GPU optimization, saving time and compute costs. Try it to boost your models’ performance!
-🎥 Watch the Demo: YouTube Video (Replace with your video link)
 Features
 
 LLM-Powered Optimization: Uses LLMs (e.g., Llama) to generate creative optimization ideas and CUDA code.
@@ -61,14 +60,11 @@ Community
 
 Discuss: Join our GitHub Discussions to share ideas or ask questions.
 Report Issues: Use GitHub Issues for bugs or feature requests.
-Connect: Follow us on X for updates and demos.
 
 Support the Project
 Loved the speedup? Consider:
 
 ⭐ Star the repo to show your support!
-☕ Buy me a coffee to fuel development: Buy Me a Coffee (Replace with your link).
-💼 Hire me for custom kernel optimization: Contact (Replace with your email).
 
 License
 KernelOptimizer is licensed under the MIT License.
